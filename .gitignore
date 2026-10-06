@@ -5,3 +5,4 @@ baileys_auth/
 admin_queue.log
 *.log
 .env
+images/
